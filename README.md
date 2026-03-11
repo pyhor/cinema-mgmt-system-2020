@@ -62,6 +62,7 @@ This project was developed using:
 
 # 📂 Project Structure
 
+```text
 form5-cinema-management-system/
 │
 ├── PHP Coding/               # Folder containing core PHP, HTML, and JS files
@@ -71,6 +72,7 @@ form5-cinema-management-system/
 ├── LICENSE                   # Project License
 └── README.md                 # Project Overview & Guide
 
+```
 ---
 
 # 📷 Screenshots
@@ -93,13 +95,13 @@ Here are some screenshots showing key interfaces from the completed system:
 
 # 📚 Learning Outcomes
 
-Through this project I learned:
+Through the development of this system, I achieved the following milestones in my technical journey:
 
-- Basic web development
-- System design and planning
-- Programming logic
-- User interface design
-- How real-world systems like booking platforms work
+* **Full-Stack Foundations:** Gained hands-on experience connecting a **PHP** backend to a **MySQL** database to handle dynamic data.
+* **System Architecture:** Learned how to plan a logical user flow, from registration and login to the final ticket booking confirmation.
+* **Data Integrity:** Implemented basic form validation and learned how to structure relational database tables for efficient storage.
+* **Technical Documentation:** Developed the ability to translate complex code into readable manuals, as seen in the [**DOKUMENTASI HOR PEI YU.pdf**](https://github.com/pyhor/form5-cinema-management-system/blob/main/DOKUMENTASI%20HOR%20PEI%20YU.pdf).
+* **Problem Solving:** Debugged real-world scenarios, such as ensuring seat availability updates correctly after a successful booking.
 
 ---
 
