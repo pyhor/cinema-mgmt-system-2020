@@ -160,7 +160,7 @@ Through the development of this system, I achieved the following milestones in m
 * **Full-Stack Foundations:** Gained hands-on experience connecting a **PHP** backend to a **MySQL** database to handle dynamic data.
 * **System Architecture:** Learned how to plan a logical user flow, from registration and login to the final ticket booking confirmation.
 * **Data Integrity:** Implemented basic form validation and learned how to structure relational database tables for efficient storage.
-* **Technical Documentation:** Developed the ability to translate complex code into readable manuals, as seen in the [**System Documentation (PDF)**](./MANUAL%20PENGGUNA%20SISTEM%20PENGURUSAN%20PEMBELIAN%20TIKET%20WAYANG%20PYH%20CINEMA%20(HOR%20PEI%20YU).pdf) | Detailed step-by-step guide, database schema, and system architecture.
+* **Technical Documentation:** Developed the ability to translate complex code into readable manuals, as seen in the [**MANUAL PENGGUNA SISTEM PENGURUSAN PEMBELIAN TIKET WAYANG PYH CINEMA (HOR PEI YU).pdf**](./MANUAL%20PENGGUNA%20SISTEM%20PENGURUSAN%20PEMBELIAN%20TIKET%20WAYANG%20PYH%20CINEMA%20(HOR%20PEI%20YU).pdf) | Detailed step-by-step guide, database schema, and system architecture.
 * **Problem Solving:** Debugged real-world scenarios, such as ensuring seat availability updates correctly after a successful booking.
 * **User Interface Design:** Created intuitive and responsive interfaces using **HTML, CSS, and JavaScript**, ensuring smooth interactions for customers during movie browsing, login, registration, and ticket booking.
   
@@ -181,7 +181,7 @@ For a comprehensive understanding of the system, please refer to the following o
 
 | Resource | Description |
 | :--- | :--- |
-| [**System Documentation (PDF)**](./MANUAL%20PENGGUNA%20SISTEM%20PENGURUSAN%20PEMBELIAN%20TIKET%20WAYANG%20PYH%20CINEMA%20(HOR%20PEI%20YU).pdf) | Detailed step-by-step guide, database schema, and system architecture. |
+| [**MANUAL PENGGUNA SISTEM PENGURUSAN PEMBELIAN TIKET WAYANG PYH CINEMA (HOR PEI YU).pdf**](./MANUAL%20PENGGUNA%20SISTEM%20PENGURUSAN%20PEMBELIAN%20TIKET%20WAYANG%20PYH%20CINEMA%20(HOR%20PEI%20YU).pdf) | Detailed step-by-step guide, database schema, and system architecture. |
 
 ---
 
