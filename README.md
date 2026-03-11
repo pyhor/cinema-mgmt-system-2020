@@ -75,8 +75,7 @@ This project was developed using:
 - JavaScript
 - PHP
 - MySQL
-
-*(Edit this section if your project uses different technologies.)*
+- XAMPP
 
 ---
 
@@ -157,7 +156,7 @@ LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
 
 To run this project locally, you will need a local server environment like **XAMPP**.
 
-1. **Move Project Files:** Copy the contents of the `PHP Coding/` folder into your XAMPP `htdocs` directory (e.g., `C:\xampp\htdocs\cinema-system\`).
+1. **Move Project Files:** Copy the contents of the `PHP Coding/` folder into the XAMPP `htdocs` directory (e.g., `C:\xampp\htdocs\cinema-system\`).
    
 2. **Database Setup:**
    - Start **Apache** and **MySQL** in the XAMPP Control Panel.
@@ -165,10 +164,10 @@ To run this project locally, you will need a local server environment like **XAM
    - Import the provided SQL file (if available) or refer to the documentation for table structures.
 
 3. **Configuration:**
-   Update the database connection settings in your PHP files (usually `db_connection.php` or similar) to match your local MySQL credentials.
+   Update the database connection settings in the PHP files (usually `db_connection.php` or similar) to match the local MySQL credentials.
 
 4. **Access the App:**
-   Open your browser and navigate to `http://localhost/cinema-system/index.html`.
+   Open the browser and navigate to `http://localhost/cinema-system/index.html`.
 
 > [!TIP]
 > For a detailed step-by-step guide, database schema, and system architecture, please refer to the [**DOKUMENTASI HOR PEI YU.pdf**](https://github.com/pyhor/form5-cinema-management-system/blob/main/DOKUMENTASI%20HOR%20PEI%20YU.pdf) file included in this repository.
