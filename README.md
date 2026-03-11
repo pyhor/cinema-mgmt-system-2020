@@ -113,3 +113,5 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 
 GitHub: https://github.com/pyhor  
 LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
+
+![Customer Login Form](demo-images/Customer%20Login%20Form.png)
