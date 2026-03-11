@@ -113,3 +113,9 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 
 GitHub: https://github.com/pyhor  
 LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
+
+
+
+https://github.com/pyhor/form5-cinema-management-system/blob/main/demo-images/Customer%20Login%20Form.png 
+https://github.com/pyhor/form5-cinema-management-system/blob/main/demo-images/Customer%20Registration%20Form.png 
+https://github.com/pyhor/form5-cinema-management-system/blob/main/demo-images/File%20Import%20Program-Script.png
