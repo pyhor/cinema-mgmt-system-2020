@@ -3,6 +3,10 @@
 **[!IMPORTANT]**
 Status: Public Archive (Read-Only) > This repository is a historical record of my 2020 Form 5 Sains Komputer Folio. It is preserved to document my early technical foundations in full-stack development and is no longer under active maintenance.
 
+**Status:** ![Archive](https://img.shields.io/badge/Status-Public%20Archive-blue)
+**Year:** 2020 (Form 5 / SPM Level)
+**Stack:** PHP, MySQL (WAMP/XAMPP)
+
 ![Project](https://img.shields.io/badge/Project-Computer%20Science%20Folio-blue)
 ![Year](https://img.shields.io/badge/Year-2020-green)
 ![Type](https://img.shields.io/badge/Type-School%20Project-orange)
@@ -15,7 +19,10 @@ The project is a **Cinema Management System** designed to simulate how a cinema 
 
 # 📖 Project Overview
 
-The **Cinema Management System** is a simple application that demonstrates how digital systems can help manage cinema operations more efficiently.
+This is a **Legacy Archive** of my high school Computer Science Portfolio. It is a full-stack **Cinema Management System** designed to handle movie screenings, seat availability, and customer ticket bookings. 
+
+> [!IMPORTANT]
+> This project is preserved as a record of my early technical journey and foundational understanding of **CRUD operations** and **relational database design**.
 
 It allows users to:
 - View available movies
