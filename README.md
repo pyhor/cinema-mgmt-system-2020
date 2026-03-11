@@ -39,14 +39,12 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 
 **Contribution:** 100% Solo Project. I was responsible for the full-stack development, including database design (ERD), backend logic (PHP), and frontend UI/UX (HTML/CSS).
 
----
 
 ## 📝 Language & Localisation
 
 > [!NOTE]
 > As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in Bahasa Melayu.
 
----
 
 ## 👤 My Role: Sole Developer
 As this was an individual folio project, I managed the entire Software Development Life Cycle (SDLC), including:
@@ -76,7 +74,6 @@ It allows users to:
 
 This project was created to apply the **programming and system design concepts** learned in the **Sains Komputer (Computer Science)** subject during Form 5.
 
----
 
 ## 🎯 Project Objectives
 
@@ -128,7 +125,6 @@ form5-cinema-management-system/
 ├── LICENSE                   # Project License
 └── README.md                 # Project Overview & Guide
 ```
----
 
 ## 📷 Screenshots
 
