@@ -9,10 +9,10 @@
 **Stack:** PHP, MySQL (WAMP/XAMPP)
 
 ![Archive](https://img.shields.io/badge/Status-Public%20Archive-blue)
-![Project](https://img.shields.io/badge/Project-Computer%20Science%20Folio-blue)
 ![Year](https://img.shields.io/badge/Year-2020-green)
 ![Type](https://img.shields.io/badge/Type-School%20Project-orange)
 ![Language](https://img.shields.io/badge/Language-Bahasa%20Melayu-red)
+![Project Type](https://img.shields.io/badge/Project-Solo%20Development-blueviolet?style=for-the-badge)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,11 +27,38 @@ The project is a **Cinema Management System** designed to simulate how a cinema 
 
 ---
 
+# 🎓 Academic Context
+
+This project was completed as part of the **Computer Science (Sains Komputer)** subject during **Form 5**, which is the final year of Malaysian secondary school before the **SPM examination**.
+
+**Level:** Form 5 (Secondary School / SPM)
+
+**Curriculum:** Sains Komputer (Computer Science)
+
+**Language:** Bahasa Melayu (The system, database labels, and documentation are in Malay as per the national curriculum requirements).
+
+**Contribution:** 100% Solo Project. I was responsible for the full-stack development, including database design (ERD), backend logic (PHP), and frontend UI/UX (HTML/CSS).
+
+---
+
+# 👤 My Role: Sole Developer
+As this was an individual folio project, I managed the entire Software Development Life Cycle (SDLC), including:
+
+System Analysis: Planning the cinema booking workflow.
+
+Database Architecture: Designing relational tables in MySQL.
+
+Backend Development: Writing PHP scripts for data processing.
+
+Frontend Design: Creating the user and admin interfaces.
+
+---
+
 # 📖 Project Overview
 
 This is a **Legacy Archive** of my high school Computer Science Portfolio. It is a full-stack **Cinema Management System** designed to handle movie screenings, seat availability, and customer ticket bookings. 
 
-> [!IMPORTANT]
+> [!NOTE]
 > This project is preserved as a record of my early technical journey and foundational understanding of **CRUD operations** and **relational database design**.
 
 It allows users to:
@@ -68,14 +95,17 @@ The system includes the following features:
 
 # 🛠 Technologies Used
 
-This project was developed using:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,windows" />
+  </a>
+</p>
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-- XAMPP
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
+- **Environment:** XAMPP on Windows
+- **Project Type:** 100% Solo Development
 
 ---
 
@@ -90,7 +120,6 @@ form5-cinema-management-system/
 ├── MANUAL PENGGUNA SIST...   # User Manual (Malay)
 ├── LICENSE                   # Project License
 └── README.md                 # Project Overview & Guide
-
 ```
 ---
 
@@ -121,20 +150,10 @@ Through the development of this system, I achieved the following milestones in m
 * **Data Integrity:** Implemented basic form validation and learned how to structure relational database tables for efficient storage.
 * **Technical Documentation:** Developed the ability to translate complex code into readable manuals, as seen in the [**DOKUMENTASI HOR PEI YU.pdf**](https://github.com/pyhor/form5-cinema-management-system/blob/main/DOKUMENTASI%20HOR%20PEI%20YU.pdf).
 * **Problem Solving:** Debugged real-world scenarios, such as ensuring seat availability updates correctly after a successful booking.
-
+* **User Interface Design:** Created intuitive and responsive interfaces using **HTML, CSS, and JavaScript**, ensuring smooth interactions for customers during movie browsing, login, registration, and ticket booking.
+  
 ---
 
-# 🎓 Academic Context
-
-This project was completed as part of the **Computer Science (Sains Komputer)** subject during **Form 5**, which is the final year of Malaysian secondary school before the **SPM examination**.
-
-**Level:** Form 5 (Secondary School / SPM)
-
-**Curriculum:** Sains Komputer (Computer Science)
-
-**Language:** Bahasa Melayu (The system, database labels, and documentation are in Malay as per the national curriculum requirements).
-
----
 
 # 📝 Language & Localisation
 
