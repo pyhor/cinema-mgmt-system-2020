@@ -69,7 +69,8 @@ cinema-management-system
 ├── booking.html  
 ├── css/  
 ├── js/  
-└── assets/  
+├── assets/  
+└── demo-images/  
 
 ---
 
@@ -78,13 +79,13 @@ cinema-management-system
 Here are some screenshots showing different parts of the system:
 
 1. **File Import Program (Admin Feature)** – This screenshot shows the admin interface for importing movie or booking data into the system.  
-![File Import Program](screenshots/File Import Program-Script.png)
+![File Import Program](https://raw.githubusercontent.com/pyhor/form5-cinema-management-system/main/demo-images/File%20Import%20Program-Script.png)
 
 2. **Customer Login Form** – This screenshot displays the login interface where customers can access their accounts to book tickets.  
-![Customer Login Form](screenshots/Customer Login Form.png)
+![Customer Login Form](https://raw.githubusercontent.com/pyhor/form5-cinema-management-system/main/demo-images/Customer%20Login%20Form.png)
 
 3. **Customer Registration Form** – This screenshot shows the registration form for new customers to create an account.  
-![Customer Registration Form](screenshots/Customer Registration Form.png)
+![Customer Registration Form](https://raw.githubusercontent.com/pyhor/form5-cinema-management-system/main/demo-images/Customer%20Registration%20Form.png)
 
 ---
 
