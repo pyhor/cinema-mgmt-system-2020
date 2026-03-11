@@ -101,6 +101,7 @@ The system includes the following features:
 
 ## 🛠 Technologies Used
 
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,windows" />
@@ -115,6 +116,7 @@ The system includes the following features:
 
 
 ## 📂 Project Structure
+
 
 ```text
 form5-cinema-management-system/
