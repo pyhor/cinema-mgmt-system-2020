@@ -27,7 +27,7 @@ The project is a **Cinema Management System** designed to simulate how a cinema 
 
 ---
 
-### 🎓 Academic Context
+## 🎓 Academic Context
 
 This project was completed as part of the **Computer Science (Sains Komputer)** subject during **Form 5**, which is the final year of Malaysian secondary school before the **SPM examination**.
 
