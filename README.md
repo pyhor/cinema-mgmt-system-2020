@@ -78,12 +78,15 @@ form5-cinema-management-system/
 Here are some screenshots showing key interfaces from the completed system:
 
 1. **Customer Registration Form** – The standard interface for new users to register their details into the MySQL database.
+   
 ![Customer Registration Form](demo-images/Customer%20Registration%20Form.png)
 
-2. **Customer Login Form** – The secure gateway for existing customers to access their accounts and start booking.
+3. **Customer Login Form** – The secure gateway for existing customers to access their accounts and start booking.
+   
 ![Customer Login Form](demo-images/Customer%20Login%20Form.png)
 
-3. **File Import Program (Admin Feature)** – This screenshot shows the administrative backend component used to import bulk movie or schedule data into the system via a script.
+5. **File Import Program (Admin Feature)** – This screenshot shows the administrative backend component used to import bulk movie or schedule data into the system via a script.
+   
 ![File Import Program](demo-images/File%20Import%20Program-Script.png)
 
 ---
@@ -112,8 +115,6 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 
 GitHub: https://github.com/pyhor  
 LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
-
----
 
 ---
 
