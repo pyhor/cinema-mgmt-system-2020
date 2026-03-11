@@ -180,11 +180,11 @@ To run this project locally, you will need a local server environment like **XAM
 > Status: Public Archive (Read-Only) > This repository is a historical record of my 2020 Form 5 Sains Komputer (Computer Science) Folio. It is preserved here to document my early technical journey and foundations in full-stack development.
 
 # 💡 Project Context
-Academic Year: 2020 (Pre-University / SPM)
+**Academic Year:** 2020 (Pre-University / SPM)
 
-Purpose: Educational submission for the Malaysian secondary school curriculum.
+**Purpose:** Educational submission for the Malaysian secondary school curriculum.
 
-Current Tech Stack: I have since transitioned to Modern Frontend Development (React, TypeScript, Next.js). This project represents my early experience with the WAMP stack (PHP/MySQL).
+**Current Tech Stack:** I have since transitioned to Modern Frontend Development (React, TypeScript, Next.js). This project represents my early experience with the WAMP stack (PHP/MySQL).
 
 # ⚖️ License
 This project is licensed under the MIT License. It is provided "as-is" for educational and reference purposes only. No further updates or maintenance will be provided.
