@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Type-School%20Project-orange" />
   <img src="https://img.shields.io/badge/Language-Bahasa%20Melayu-red" />
   <img src="https://img.shields.io/badge/Project-Solo%20Development-blueviolet" />
+  <img src="https://img.shields.io/badge/Status-Inactive-red" />
 </p>
 
 <p align="center">
