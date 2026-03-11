@@ -42,8 +42,7 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 
 ## 📝 Language & Localisation
 
-> [!NOTE]
-> As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in Bahasa Melayu.
+As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in *Bahasa Melayu*.
 
 
 ## 👤 My Role: Sole Developer
