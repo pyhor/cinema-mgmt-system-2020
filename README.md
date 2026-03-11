@@ -44,12 +44,12 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 **Contribution:** 100% Solo Project. I was responsible for the full-stack development, including database design (ERD), backend logic (PHP), and frontend UI/UX (HTML/CSS).
 
 
-## 📝 Language & Localisation
+### 📝 Language & Localisation
 
 As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in **Bahasa Melayu**.
 
 
-## 👤 My Role: Sole Developer
+### 👤 My Role: Sole Developer
 As this was an individual folio project, I managed the entire Software Development Life Cycle (SDLC), including:
 
 **System Analysis:** Planning the cinema booking workflow.
@@ -78,7 +78,7 @@ It allows users to:
 This project was created to apply the **programming and system design concepts** learned in the **Sains Komputer (Computer Science)** subject during Form 5.
 
 
-## 🎯 Project Objectives
+### 🎯 Project Objectives
 
 - Develop a basic cinema management application
 - Apply programming and logical thinking skills
@@ -100,7 +100,7 @@ The system includes the following features:
   
 
 
-## 🛠 Technologies Used
+### 🛠 Technologies Used
 
 
 <p align="left">
@@ -117,7 +117,7 @@ The system includes the following features:
 
 
 
-## 📂 Project Structure
+### 📂 Project Structure
 
 
 ```text
@@ -131,7 +131,7 @@ form5-cinema-management-system/
 └── README.md                 # Project Overview & Guide
 ```
 
-## 📷 Screenshots
+### 📷 Screenshots
 
 Here are some screenshots showing key interfaces from the completed system:
 
@@ -199,14 +199,7 @@ To run this project locally, you will need a local server environment like **XAM
 > 
 > Status: Public Archive (Read-Only) > This repository is a historical record of my 2020 Form 5 Sains Komputer (Computer Science) Folio. It is preserved here to document my early technical journey and foundations in full-stack development.
 
-### 💡 Project Context
-**Academic Year:** 2020 (Pre-University / SPM)
-
-**Purpose:** Educational submission for the Malaysian secondary school curriculum.
-
-**Current Tech Stack:** I have since transitioned to Modern Frontend Development (React, TypeScript, Next.js). This project represents my early experience with the WAMP stack (PHP/MySQL).
-
-# ⚖️ License
+### ⚖️ License
 This project is licensed under the MIT License. It is provided "as-is" for educational and reference purposes only. No further updates or maintenance will be provided.
 
 ---
