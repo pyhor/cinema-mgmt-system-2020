@@ -1,4 +1,4 @@
-## 🎬 Cinema Management System | 2020 Legacy Archive
+## 🎬 Cinema Management System | 2020 Project Vault
 
 > [!NOTE]
 >
