@@ -49,13 +49,13 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 ## 👤 My Role: Sole Developer
 As this was an individual folio project, I managed the entire Software Development Life Cycle (SDLC), including:
 
-System Analysis: Planning the cinema booking workflow.
+*System Analysis:* Planning the cinema booking workflow.
 
-Database Architecture: Designing relational tables in MySQL.
+*Database Architecture:* Designing relational tables in MySQL.
 
-Backend Development: Writing PHP scripts for data processing.
+*Backend Development:* Writing PHP scripts for data processing.
 
-Frontend Design: Creating the user and admin interfaces.
+*Frontend Design:* Creating the user and admin interfaces.
 
 ---
 
