@@ -201,5 +201,3 @@ To run this project locally, you will need a local server environment like **XAM
 
 ### ⚖️ License
 This project is licensed under the MIT License. It is provided "as-is" for educational and reference purposes only. No further updates or maintenance will be provided.
-
----
