@@ -184,7 +184,8 @@ To run this project locally, you will need a local server environment like **XAM
 4. **Access the App:**
    Open the browser and navigate to `http://localhost/cinema-system/index.html`.
 
-> [!TIPS]
+> [!TIP]
+> 
 > For a detailed step-by-step guide, database schema, and system architecture, please refer to the [**DOKUMENTASI HOR PEI YU.pdf**](https://github.com/pyhor/form5-cinema-management-system/blob/main/DOKUMENTASI%20HOR%20PEI%20YU.pdf) file included in this repository.
 
 ---
