@@ -1,0 +1,183 @@
+<h2><big>| Now Showing |</big></h2>
+<DOCTYPE html>
+<html>
+<head>
+<style>
+
+/* Slideshow container */
+.slideshow-container {
+  position: relative;
+  height:95%;
+}
+
+/* Slides */
+.mySlides {
+  display: none;
+  padding: 80px;
+  text-align: center;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -30px;
+  padding: 16px;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  background-color:#DCDCDC6;
+}
+
+/* Position the "next button" to the right */
+.next {
+  position: absolute;
+  right: 0;
+  border-radius: 3px 0 0 3px;
+  background-color:#DCDCDC6;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+  color: white;
+}
+
+/* The dot/bullet/indicator container */
+.dot-container {
+    text-align: center;
+    padding: 25px;
+    background: none;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin:15px;
+  background-color:#CACAAD;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+/* Add a background color to the active dot/circle */
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Add an italic font style to all quotes */
+{font-size: large;}
+
+</style>
+</head>
+<body>
+
+<div class="slideshow-container">
+
+<div class="mySlides">
+<a href="semaktiket.php"><img src="images/movie5.jpg"style="float:right;"></a>
+<h2><big><u>Jumanji: The Next Level</u></big></h2>
+<p><big><big><strong>When Spencer goes missing, the gang returns to 
+Jumanji to travel unexplored territories and 
+help their friend escape the world's most dangerous game.</p></big></big></strong><br><br>
+<a href="semaktiket.php"><p><i><big>Go Buy Ticket</a></p></i></big>
+</div>
+
+<div class="mySlides">
+<a href="semaktiket.php"><img src="images/movie3.jpg"style="float:right;"></a><br>
+  <h2><big><u>The Lion King</u></big></h2>
+  <p><big><big><strong>Simba, a young lion prince, flees his kingdom after the murder
+of his father, Mufasa. Years later, a chance encounter with Nala, 
+a lioness, causes him to return and take back what is rightfully his.</p></big></big></strong><br><br>
+<a href="semaktiket.php"><p><i><big>Go Buy Ticket</a></p></i></big>
+</div>
+
+<div class="mySlides">
+  <a href="semaktiket.php"><img src="images/movie1.jpg"style="float:right;"></a><br>
+  <h2><big><u>Exit</u></big></h2>
+   <p><big><big><strong>In a shocking turn of events, a rock climber who is busy 
+preparing for his mother's birthday, has to save 
+everyone from a poisonous gas spreading across the city.</p></big></big></strong><br><br>
+<a href="semaktiket.php"><p><i><big>Go Buy Ticket</a></p></i></big>
+</div>
+
+<div class="mySlides">
+  <a href="semaktiket.php"><img src="images/movie2.jpg"style="float:right;"></a><br>
+   <h2><big><u>Onward</u></big></h2>
+   <p><big><big><strong>It's about two teenage elf brothers living in a 
+post-magic world who stumble upon a spell that can bring their  
+father back to life. They embark on an epic and heartwarming
+adventure to see the spell through when it only brings
+back the lower half of their father’s body.</p></big></big></strong><br><br>
+<a href="semaktiket.php"><p><i><big>Go Buy Ticket</a></p></i></big>
+</div>
+
+<div class="mySlides">
+  <a href="semaktiket.php"><img src="images/movie4.jpg"style="float:right;"></a><br>
+  <h2><big><u>The Aeronuats</u></big></h2>
+  <p><big><big><strong>In 1862 headstrong scientist James Glaisher and wealthy young widow
+Amelia Wren mount a balloon expedition to fly higher
+than anyone in history. As their perilous ascent reduces their 
+ chances of survival,the unlikely duo soon discover things about themselves.</p></big></big></strong><br><br>
+<a href="semaktiket.php"><p><i><big>Go Buy Ticket</a></p></i></big>
+</div>
+
+<div class="mySlides">
+  <a href="semaktiket.php"><img src="images/movie7.jpg"style="float:right;"></a><br>
+  <h2><big><u>The 5th Wave</u></big></h2>
+  <p><big><big><strong>With the human race at the risk of getting wiped out 
+owing to alien attacks, Cassie, a teenager from Ohio, sees
+this as her only chance to reunite with her brother Sam.</p></big></big></strong><br><br>
+ <a href="semaktiket.php"><p><i><big>Go Buy Ticket</a></p></i></big>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
+
+</div>
+
+<div class="dot-container">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span>
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+</body>
+</html> 
