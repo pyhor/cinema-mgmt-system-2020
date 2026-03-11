@@ -49,7 +49,7 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in **Bahasa Melayu**.
 
 
-### 👤 My Role: Sole Developer
+### <ins>👤 My Role: Sole Developer</ins>
 As this was an individual folio project, I managed the entire Software Development Life Cycle (SDLC), including:
 
 **System Analysis:** Planning the cinema booking workflow.
@@ -78,7 +78,7 @@ It allows users to:
 This project was created to apply the **programming and system design concepts** learned in the **Sains Komputer (Computer Science)** subject during Form 5.
 
 
-### 🎯 Project Objectives
+### <ins>🎯 Project Objectives</ins>
 
 - Develop a basic cinema management application
 - Apply programming and logical thinking skills
@@ -88,7 +88,7 @@ This project was created to apply the **programming and system design concepts**
 
 ---
 
-## 🎬 System Features
+## <ins>🎬 System Features</ins>
 
 The system includes the following features:
 
@@ -100,7 +100,7 @@ The system includes the following features:
   
 
 
-### 🛠 Technologies Used
+### <ins>🛠 Technologies Used</ins>
 
 
 <p align="left">
@@ -117,7 +117,7 @@ The system includes the following features:
 
 
 
-### 📂 Project Structure
+### <ins>📂 Project Structure</ins>
 
 
 ```text
@@ -131,7 +131,7 @@ form5-cinema-management-system/
 └── README.md                 # Project Overview & Guide
 ```
 
-### 📷 Screenshots
+### <ins>📷 Screenshots</ins>
 
 Here are some screenshots showing key interfaces from the completed system:
 
@@ -199,5 +199,5 @@ To run this project locally, you will need a local server environment like **XAM
 > 
 > Status: Public Archive (Read-Only) > This repository is a historical record of my 2020 Form 5 Sains Komputer (Computer Science) Folio. It is preserved here to document my early technical journey and foundations in full-stack development.
 
-### ⚖️ License
+## ⚖️ License
 This project is licensed under the MIT License. It is provided "as-is" for educational and reference purposes only. No further updates or maintenance will be provided.
