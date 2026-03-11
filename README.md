@@ -41,7 +41,14 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 
 ---
 
-# 👤 My Role: Sole Developer
+## 📝 Language & Localisation
+
+> [!NOTE]
+> As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in Bahasa Melayu.
+
+---
+
+## 👤 My Role: Sole Developer
 As this was an individual folio project, I managed the entire Software Development Life Cycle (SDLC), including:
 
 System Analysis: Planning the cinema booking workflow.
@@ -54,7 +61,7 @@ Frontend Design: Creating the user and admin interfaces.
 
 ---
 
-# 📖 Project Overview
+## 📖 Project Overview
 
 This is a **Legacy Archive** of my high school Computer Science Portfolio. It is a full-stack **Cinema Management System** designed to handle movie screenings, seat availability, and customer ticket bookings. 
 
@@ -71,7 +78,7 @@ This project was created to apply the **programming and system design concepts**
 
 ---
 
-# 🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Develop a basic cinema management application
 - Apply programming and logical thinking skills
@@ -81,7 +88,7 @@ This project was created to apply the **programming and system design concepts**
 
 ---
 
-# 🎬 System Features
+## 🎬 System Features
 
 The system includes the following features:
 
@@ -93,7 +100,7 @@ The system includes the following features:
 
 ---
 
-# 🛠 Technologies Used
+## 🛠 Technologies Used
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -109,7 +116,7 @@ The system includes the following features:
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 form5-cinema-management-system/
@@ -123,7 +130,7 @@ form5-cinema-management-system/
 ```
 ---
 
-# 📷 Screenshots
+## 📷 Screenshots
 
 Here are some screenshots showing key interfaces from the completed system:
 
@@ -141,7 +148,7 @@ Here are some screenshots showing key interfaces from the completed system:
 
 ---
 
-# 📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 Through the development of this system, I achieved the following milestones in my technical journey:
 
@@ -154,15 +161,7 @@ Through the development of this system, I achieved the following milestones in m
   
 ---
 
-
-# 📝 Language & Localisation
-
-> [!NOTE]
-> As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in Bahasa Melayu.
-
----
-
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 **Pei Yu Hor**  
 
@@ -171,7 +170,7 @@ LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
 
 ---
 
-# 🚀 How to Run (Local Setup)
+## 🚀 How to Run (Local Setup)
 
 To run this project locally, you will need a local server environment like **XAMPP**.
 
@@ -193,12 +192,12 @@ To run this project locally, you will need a local server environment like **XAM
 
 ---
 
-# 📜 Archive & Legacy Disclaimer
+## 📜 Archive & Legacy Disclaimer
 > **[!IMPORTANT]**
 > 
 > Status: Public Archive (Read-Only) > This repository is a historical record of my 2020 Form 5 Sains Komputer (Computer Science) Folio. It is preserved here to document my early technical journey and foundations in full-stack development.
 
-# 💡 Project Context
+### 💡 Project Context
 **Academic Year:** 2020 (Pre-University / SPM)
 
 **Purpose:** Educational submission for the Malaysian secondary school curriculum.
