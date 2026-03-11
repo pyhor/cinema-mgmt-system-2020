@@ -12,7 +12,7 @@
 ![Year](https://img.shields.io/badge/Year-2020-green)
 ![Type](https://img.shields.io/badge/Type-School%20Project-orange)
 ![Language](https://img.shields.io/badge/Language-Bahasa%20Melayu-red)
-![Project Type](https://img.shields.io/badge/Project-Solo%20Development-blueviolet?style=for-the-badge)
+![Project Type](https://img.shields.io/badge/Project-Solo%20Development-blueviolet)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
