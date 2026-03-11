@@ -1,7 +1,7 @@
 # 🎬 Cinema Management System | 2020 Legacy Archive
 
 > **[!IMPORTANT]**
-
+>
 > Status: Public Archive (Read-Only) > This repository is a historical record of my 2020 Form 5 Sains Komputer Folio. It is preserved to document my early technical foundations in full-stack development and is no longer under active maintenance.
 
 **Year:** 2020 (Form 5 / SPM Level)
