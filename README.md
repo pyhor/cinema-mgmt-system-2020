@@ -191,7 +191,18 @@ To run this project locally, you will need a local server environment like **XAM
 
 > [!TIP]
 > 
-> For a detailed step-by-step guide, database schema, and system architecture, please refer to the [**DOKUMENTASI HOR PEI YU.pdf**](https://github.com/pyhor/form5-cinema-management-system/blob/main/DOKUMENTASI%20HOR%20PEI%20YU.pdf) file included in this repository.
+> For a detailed step-by-step guide, database schema, and system architecture, please refer to the [**MANUAL PENGGUNA SISTEM PENGURUSAN PEMBELIAN TIKET WAYANG PYH CINEMA (HOR PEI YU).pdf
+pyhor**](https://github.com/pyhor/cinema-mgmt-system-2020/blob/467713bda7f27a5bce481b5f6d52d67652a12461/MANUAL%20PENGGUNA%20SISTEM%20PENGURUSAN%20PEMBELIAN%20TIKET%20WAYANG%20PYH%20CINEMA%20(HOR%20PEI%20YU).pdf) file included in this repository.
+> 
+
+
+## 📄 Documentation
+
+Detailed technical details and system guides are available in the archive:
+
+| Document | Description |
+| :--- | :--- |
+| [User Manual (PDF)](./MANUAL%20PENGGUNA%20SISTEM%20PENGURUSAN%20PEMBELIAN%20TIKET%20WAYANG%20PYH%20CINEMA%20(HOR%20PEI%20YU).pdf) | Includes database schema, system architecture, and step-by-step usage guide. |
 
 ---
 
