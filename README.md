@@ -99,6 +99,7 @@ The system includes the following features:
 - 📋 Basic data management
   
 
+
 ## 🛠 Technologies Used
 
 
@@ -113,6 +114,7 @@ The system includes the following features:
 - **Database:** MySQL
 - **Environment:** XAMPP on Windows
 - **Project Type:** 100% Solo Development
+
 
 
 ## 📂 Project Structure
