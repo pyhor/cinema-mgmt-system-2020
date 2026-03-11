@@ -50,16 +50,17 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in **Bahasa Melayu**.
 
 
-### <ins>👤 My Role: Sole Developer</ins>
-As this was an individual folio project, I managed the entire Software Development Life Cycle (SDLC), including:
+### 👤 My Role: Sole Developer
 
-**System Analysis:** Planning the cinema booking workflow.
+As this was an individual folio project, I managed the entire **Software Development Life Cycle (SDLC)**, handling everything from architectural design to deployment:
 
-**Database Architecture:** Designing relational tables in MySQL.
-
-**Backend Development:** Writing PHP scripts for data processing.
-
-**Frontend Design:** Creating the user and admin interfaces.
+| Phase | Responsibilities & Contributions |
+| :--- | :--- |
+| **📁 System Analysis** | Defined the cinema booking workflow, user requirements, and system logic for both Customers and Admins. |
+| **🗄️ Database Architecture** | Designed and implemented relational **MySQL** tables, ensuring data integrity for movie schedules and seat bookings. |
+| **⚙️ Backend Development** | Developed server-side logic using **PHP** to handle form processing, database queries, and session management. |
+| **🎨 Frontend Design** | Created the User Interface (UI) using HTML and CSS, focusing on a functional experience for ticket selection and admin management. |
+| **🛠️ Testing & Debugging** | Performed end-to-end testing of the booking flow and validated SQL queries to ensure accurate data retrieval. |
 
 ---
 
@@ -101,8 +102,7 @@ The system includes the following features:
   
 
 
-### <ins>🛠 Technologies Used</ins>
-
+### 🛠 Technologies Used
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -110,11 +110,14 @@ The system includes the following features:
   </a>
 </p>
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** PHP
-- **Database:** MySQL
-- **Environment:** XAMPP on Windows
-- **Project Type:** 100% Solo Development
+| Category | Stack |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Backend** | PHP |
+| **Database** | MySQL |
+| **Environment** | XAMPP (Local Server) |
+| **OS** | Windows |
+| **Project Type** | **100% Solo Development** |
 
 
 
@@ -172,37 +175,37 @@ LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
 
 ---
 
-## 🚀 How to Run (Local Setup)
-
-To run this project locally, you will need a local server environment like **XAMPP**.
-
-1. **Move Project Files:** Copy the contents of the `PHP Coding/` folder into the XAMPP `htdocs` directory (e.g., `C:\xampp\htdocs\cinema-system\`).
-   
-2. **Database Setup:**
-   - Start **Apache** and **MySQL** in the XAMPP Control Panel.
-   - Go to `localhost/phpmyadmin` and create a new database.
-   - Import the provided SQL file (if available) or refer to the documentation for table structures.
-
-3. **Configuration:**
-   Update the database connection settings in the PHP files (usually `db_connection.php` or similar) to match the local MySQL credentials.
-
-4. **Access the App:**
-   Open the browser and navigate to `http://localhost/cinema-system/index.html`.
-
-> [!TIP]
-> 
-> For a detailed step-by-step guide, database schema, and system architecture, please refer to the [**MANUAL PENGGUNA SISTEM PENGURUSAN PEMBELIAN TIKET WAYANG PYH CINEMA (HOR PEI YU).pdf
-pyhor**](https://github.com/pyhor/cinema-mgmt-system-2020/blob/467713bda7f27a5bce481b5f6d52d67652a12461/MANUAL%20PENGGUNA%20SISTEM%20PENGURUSAN%20PEMBELIAN%20TIKET%20WAYANG%20PYH%20CINEMA%20(HOR%20PEI%20YU).pdf) file included in this repository.
-> 
-
-
 ## 📄 Documentation
 
-Detailed technical details and system guides are available in the archive:
+For a comprehensive understanding of the system, please refer to the following official project resources:
 
-| Document | Description |
+| Resource | Description |
 | :--- | :--- |
-| [User Manual (PDF)](./MANUAL%20PENGGUNA%20SISTEM%20PENGURUSAN%20PEMBELIAN%20TIKET%20WAYANG%20PYH%20CINEMA%20(HOR%20PEI%20YU).pdf) | Includes database schema, system architecture, and step-by-step usage guide. |
+| [**System Documentation (PDF)**](./MANUAL%20PENGGUNA%20SISTEM%20PENGURUSAN%20PEMBELIAN%20TIKET%20WAYANG%20PYH%20CINEMA%20(HOR%20PEI%20YU).pdf) | Detailed step-by-step guide, database schema, and system architecture. |
+
+---
+
+## 🚀 How to Run (Local Setup)
+
+### 1. Environment Setup
+This project requires a local PHP/MySQL environment. 
+* **Download XAMPP:** [Official XAMPP Website](https://www.apachefriends.org/index.html)
+* **Setup Guide:** [Official XAMPP Installation Documentation](https://www.apachefriends.org/community.html)
+
+### 2. Project Installation
+Follow these steps to deploy the system locally:
+
+| Step | Action | Details |
+| :--- | :--- | :--- |
+| **1** | **Move Files** | Copy the contents of the `PHP Coding/` folder into `C:\xampp\htdocs\cinema-system\` |
+| **2** | **Start XAMPP** | Open XAMPP Control Panel and start **Apache** and **MySQL**. |
+| **3** | **Database** | Go to `localhost/phpmyadmin`, create a new database, and import the SQL file. |
+| **4** | **Config** | Update database credentials in the connection file (e.g., `db_connection.php`). |
+| **5** | **Launch** | Navigate to `http://localhost/cinema-system/index.html` in your browser. |
+
+> [!TIP]
+> If you encounter database connection errors, ensure your MySQL port (default `3306`) is not being used by another application 
+|
 
 ---
 
