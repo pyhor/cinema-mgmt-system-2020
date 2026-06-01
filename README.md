@@ -1,4 +1,4 @@
-## 🎬 Cinema Management System | 2020 Project Archive
+## Cinema Management System | 2020 Project Archive
 
 > [!NOTE]
 >
@@ -32,7 +32,7 @@ The project is a **Cinema Management System** designed to simulate how a cinema 
 
 ---
 
-## 🎓 Academic Context
+## Academic Context
 
 This project was completed as part of the **Computer Science (Sains Komputer)** subject during **Form 5**, which is the final year of Malaysian secondary school before the **SPM examination**.
 
@@ -45,39 +45,39 @@ This project was completed as part of the **Computer Science (Sains Komputer)** 
 **Contribution:** 100% Solo Project. I was responsible for the full-stack development, including database design (ERD), backend logic (PHP), and frontend UI/UX (HTML/CSS).
 
 
-### <ins>📝 Language & Localisation</ins>
+### <ins>Language & Localisation</ins>
 
 As this project was developed for the Malaysian SPM Sains Komputer curriculum, the User Interface (UI), system messages, and technical documentation are primarily in **Bahasa Melayu**.
 
 
-### <ins>👤 My Role: Sole Developer</ins>
+### <ins>My Role: Sole Developer</ins>
 
 As this was an individual folio project, I managed the entire **Software Development Life Cycle (SDLC)**, handling everything from architectural design to deployment:
 
 | Phase | Responsibilities & Contributions |
 | :--- | :--- |
-| **📁 System Analysis** | Defined the cinema booking workflow, user requirements, and system logic for both Customers and Admins. |
-| **🗄️ Database Architecture** | Designed and implemented relational **MySQL** tables, ensuring data integrity for movie schedules and seat bookings. |
-| **⚙️ Backend Development** | Developed server-side logic using **PHP** to handle form processing, database queries, and session management. |
-| **🎨 Frontend Design** | Created the User Interface (UI) using HTML and CSS, focusing on a functional experience for ticket selection and admin management. |
-| **🛠️ Testing & Debugging** | Performed end-to-end testing of the booking flow and validated SQL queries to ensure accurate data retrieval. |
+| **System Analysis** | Defined the cinema booking workflow, user requirements, and system logic for both Customers and Admins. |
+| **Database Architecture** | Designed and implemented relational **MySQL** tables, ensuring data integrity for movie schedules and seat bookings. |
+| **Backend Development** | Developed server-side logic using **PHP** to handle form processing, database queries, and session management. |
+| **Frontend Design** | Created the User Interface (UI) using HTML and CSS, focusing on a functional experience for ticket selection and admin management. |
+| **Testing & Debugging** | Performed end-to-end testing of the booking flow and validated SQL queries to ensure accurate data retrieval. |
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This repository preserves my **Form 5 Computer Science portfolio project (2020)**. It is a full-stack **Cinema Management System** designed to manage movie screenings, seat availability, and customer ticket bookings.
 
 > [!NOTE]  
 > This project represents my **technical foundation**, documenting my early mastery of **relational database design (RDBMS)** and **CRUD architecture** using PHP and MySQL.
 
-### <ins>🕹️ Core Functionality</ins>
+### <ins>Core Functionality</ins>
 * **Dynamic Movie Catalog:** Browse real-time movie listings and descriptions.
 * **Showtime Management:** Check availability based on specific cinema schedules.
 * **Secure Booking Flow:** A step-by-step interface for reserving seats and confirming tickets.
 * **User & Admin Modules:** Integrated backend to handle user registrations and administrative movie management.
 
-### <ins>🎯 Development Focus</ins>
+### <ins>Development Focus</ins>
 The project was designed to implement the **System Development Life Cycle (SDLC)** principles learned during my *Sains Komputer* studies:
 
 | Focus Area | Objective |
@@ -89,25 +89,25 @@ The project was designed to implement the **System Development Life Cycle (SDLC)
 
 ---
 
-## 🎬 System Features
+## System Features
 
 The system includes the following features:
 
-- 🎥 Movie listing
-- 🕒 Showtimes display
-- 🎟 Ticket booking
-- 👤 Customer information handling
-- 📋 Basic data management
+- Movie listing
+- Showtimes display
+- Ticket booking
+- Customer information handling
+- Basic data management
   
 
 
-### <ins>🛠 Technologies Used</ins>
+### <ins>Technologies Used</ins>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,windows" />
   </a>
-</p>
+</p> -->
 
 | Category | Stack |
 | :--- | :--- |
@@ -120,7 +120,7 @@ The system includes the following features:
 
 
 
-### <ins>📂 Project Structure</ins>
+### <ins>Project Structure</ins>
 
 
 ```text
@@ -134,7 +134,7 @@ form5-cinema-management-system/
 └── README.md                 # Project Overview & Guide
 ```
 
-### <ins>📷 Screenshots</ins>
+### <ins>Screenshots</ins>
 
 Here are some screenshots showing key interfaces from the completed system:
 
@@ -152,22 +152,22 @@ Here are some screenshots showing key interfaces from the completed system:
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 Through the development of this system, I achieved the following milestones in my technical journey:
 
 | Milestone | Technical Application |
 | :--- | :--- |
-| **🚀 Full-Stack Foundations** | Gained hands-on experience connecting a **PHP** backend to a **MySQL** database to handle dynamic data. |
-| **🏗️ System Architecture** | Planned a logical user flow, managing the transition from registration and login to the final ticket booking confirmation. |
-| **💾 Data Integrity** | Implemented form validation and structured relational database tables to ensure efficient and accurate data storage. |
-| **📄 Technical Documentation** | Developed the ability to translate complex code into readable manuals, as seen in the [**Manual Sistem Pengurusan Tiket PYH Cinema (PDF)**](https://github.com/pyhor/cinema-mgmt-system-2020/blob/bec18bea10a39157d980c983ed8f837d55c83036/Manual%20Sistem%20Pengurusan%20Tiket%20PYH%20Cinema.pdf). |
-| **🧩 Problem Solving** | Debugged real-world scenarios, such as ensuring real-time seat availability updates correctly post-booking. |
-| **🎨 UI/UX Design** | Crafted intuitive interfaces using **HTML, CSS, and JS** to ensure smooth interactions for movie browsing and user registration. |
+| **Full-Stack Foundations** | Gained hands-on experience connecting a **PHP** backend to a **MySQL** database to handle dynamic data. |
+| **System Architecture** | Planned a logical user flow, managing the transition from registration and login to the final ticket booking confirmation. |
+| **Data Integrity** | Implemented form validation and structured relational database tables to ensure efficient and accurate data storage. |
+| **Technical Documentation** | Developed the ability to translate complex code into readable manuals, as seen in the [**Manual Sistem Pengurusan Tiket PYH Cinema (PDF)**](https://github.com/pyhor/cinema-mgmt-system-2020/blob/bec18bea10a39157d980c983ed8f837d55c83036/Manual%20Sistem%20Pengurusan%20Tiket%20PYH%20Cinema.pdf). |
+| **Problem Solving** | Debugged real-world scenarios, such as ensuring real-time seat availability updates correctly post-booking. |
+| **UI/UX Design** | Crafted intuitive interfaces using **HTML, CSS, and JS** to ensure smooth interactions for movie browsing and user registration. |
   
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Pei Yu Hor**  
 
@@ -176,7 +176,7 @@ LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 For a comprehensive understanding of the system, please refer to the following official project resources:
 
@@ -186,7 +186,7 @@ For a comprehensive understanding of the system, please refer to the following o
 
 ---
 
-## 🚀 How to Run (Local Setup)
+## How to Run (Local Setup)
 
 ### 1. Environment Setup
 This project requires a local PHP/MySQL environment. 
@@ -210,10 +210,10 @@ Follow these steps to deploy the system locally:
 
 ---
 
-## 📜 Archive & Legacy Disclaimer
+## Archive & Legacy Disclaimer
 > [!IMPORTANT]
 > 
 > Status: **Public Archive (Read-Only)** > This repository is a historical record of my 2020 Form 5 Sains Komputer (Computer Science) Folio. It is preserved here to document my early technical journey and foundations in full-stack development.
 
-## ⚖️ License
+## License
 This project is licensed under the MIT License. It is provided "as-is" for educational and reference purposes only. No further updates or maintenance will be provided.
